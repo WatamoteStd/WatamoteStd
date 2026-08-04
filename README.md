@@ -1,4 +1,4 @@
-# Immortals and Heroes (IaH) — Production Repository
+# Immortals and Heroes (IaH) - Production Repository
 
 Production-ready, high-performance distributed architecture for a Dark Fantasy MMORPG/MOBA with a player-driven economy. 
 
@@ -32,6 +32,5 @@ The ecosystem uses a split three-tier architecture designed to maximize throughp
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WatamoteStd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Metrics" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WatamoteStd&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" height="190">
+alt="Languages" height="190">
 </p>
