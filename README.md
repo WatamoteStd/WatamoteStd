@@ -30,7 +30,3 @@ The ecosystem uses a split three-tier architecture designed to maximize throughp
   <img src="https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
-
-<p align="left">
-alt="Languages" height="190">
-</p>
